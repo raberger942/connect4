@@ -7,7 +7,6 @@ Physical board games force people to play in person, making it near impossible t
 Technologies:
 
 Java
-
 Git
 
 
@@ -15,21 +14,15 @@ MVP scope:
 
 Creating the game Structure
 
-Making player input
-
-Implement win/loss logic
-
-Implement valid move logic
-
-Create and store win rates on player PCs
-
-Implement Client Server connection
+1. Making player input
+2. Implement win/loss logic
+3. Implement valid move logic
+4. Create and store win rates on player PCs
+5. Implement Client Server connection
 
 
 Future Plans:
 
-Improve code organization and documentation
-
-Improve code optimization
-
-Create a large number of test cases
+1. Improve code organization and documentation
+2. Improve code optimization
+3. Create a large number of test cases
